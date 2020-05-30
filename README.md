@@ -19,7 +19,8 @@ The App can be downloaded for FREE from the link provided above. It helps in tak
 4. Attractive UI which function in dark mode, its saves your battery life
 5. Light weight
 
-#Be Safe. #Be Healthy. #Be Happy. #Stay Home.
+#Be Safe. #Be Healthy. #Be Happy. 
+#Stay Home. #Stay Aware. #Stay Informed.
 
 ### Developed By
 Balaji R\
