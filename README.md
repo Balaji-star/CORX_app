@@ -1,5 +1,5 @@
-# COR X_app
-A small contribution from our side to public,To get aware and seek help for the ongoing pandemic COVID-19
+# COR X Mobile App
+COR X helps you keep track of the latest information regarding the ongoing pandemic coronavirus disease “COVID-19”. A small contribution from our side to public, to get aware and seek help for the professionals.
 
 Download the latest APK from [here](https://github.com/Balaji-star/CORX_app/releases/download/v2.0/COR_X.apk) to install the application.
 
@@ -24,7 +24,7 @@ The App can be downloaded for FREE from the link provided above. It helps you by
 ### Developed By
 Balaji R\
 Sobhana S\
-Sri Sairam Engineering college, Chennai.
+of Sri Sairam Engineering College, Chennai.
 
-The students volunteered with the [MIT Square](https://www.mitsquare.com) to help people learn and get aware on the ongoing pandemic COVID-19.
+The students volunteered with the [RAJ Square Charity Foundation](https://www.rajsquare.com) to help people learn and get aware on the ongoing pandemic COVID-19. Completely powered by [MIT Square](https://www.mitsquare.com).
 
