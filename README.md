@@ -1,7 +1,7 @@
 # CORX_app
 A small contribution from my side to public to get aware and to seek help for the ongoing pandemic COVID-19
 
-Download the latest APK from [here](https://github.com/udhay24/Covify_covid-19/releases/download/v1.0/app-release.apk) to install the application.
+Download the latest APK from [here](https://github.com/udhay24/Covify_covid-19/releases/download/v2.0/app-release.apk) to install the application.
 
 <td align="center"><a href="https://github.com/udhay24/Covify_covid-19/releases/download/v1.0/app-release.apk"><img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Get it on Github" height="68"></a></td>
 
@@ -23,7 +23,9 @@ Be Safe. Be Healthy. Be Happy. Stay Home.
 
 ### Developed By
 Balaji R
+
 Sobhana S
+
 Sri Sairam Engineering college, Chennai.
 
 The students volunteered with the [MIT Square](https://www.mitsquare.com) to help people learn and get aware on the ongoing pandemic COVID-19.
