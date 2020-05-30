@@ -28,7 +28,7 @@ of Sri Sairam Engineering College, Chennai.
 
 The students volunteered with the [RAJ Square Charity Foundation](https://www.rajsquare.com) to help people learn and get aware on the ongoing pandemic COVID-19. Completely powered by [MIT Square](https://www.mitsquare.com).
 
-- The first version of the app was released on 02 April 2020 to commemorate the visionary leader, Mr Leo Muthu, Founder of the "Sairam Institutions".\
-- The second version of the app was released on 07 April 2020 to celebrate World Health Day.\
+- The first version of the app was released on 02 April 2020 to commemorate the visionary leader, Mr Leo Muthu, Founder of the "Sairam Institutions".
+- The second version of the app was released on 07 April 2020 to celebrate World Health Day.
 - The updated version was released on 12 May 2020 to celebrate International Nurses Day. 
 
