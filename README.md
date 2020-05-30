@@ -11,8 +11,8 @@ Services | Advice  | Meet your doctor | Doctorbot
 ![image](https://github.com/Balaji-star/CORX_app/blob/master/home.jpg)  |  ![image](https://github.com/Balaji-star/CORX_app/blob/master/advice.jpg) |  ![image](https://github.com/Balaji-star/CORX_app/blob/master/Doctor.jpg) |  ![image](https://github.com/Balaji-star/CORX_app/blob/master/chatbot.jpg)
 
 
-The App can be downloaded for FREE from the link provided above. It helps you by advicing & take self assessment with no cost. All information are provide by the World Health Organisation (WHO), the Health Ministry of India 
-
+The App can be downloaded for FREE from the link provided above. It helps you by advicing & take self assessment with no cost. All information are provide by the World Health Organisation (WHO) & the Health Ministry of India 
+## Features
 1. Take self assessment with our DoctorBot
 2. Import advice to the public to keep in mind during this quaratine
 3. Get help by a single click from Indian govt. HelpLine
@@ -25,5 +25,6 @@ Be Safe. Be Healthy. Be Happy. Stay Home.
 Balaji R
 Sobhana S
 Sri Sairam Engineering college, Chennai.
+
 The students volunteered with the [MIT Square](https://www.mitsquare.com) to help people learn and get aware on the ongoing pandemic COVID-19.
 
