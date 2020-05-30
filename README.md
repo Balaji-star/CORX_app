@@ -1,5 +1,5 @@
 # COR X Mobile App
-COR X helps you keep track of the latest information regarding the ongoing pandemic coronavirus disease “COVID-19”. A small contribution from our side to public, to get aware and seek help for the professionals.
+COR X helps you keep track of the latest information regarding the ongoing pandemic coronavirus disease “COVID-19”. A small contribution from our side to public, to get aware and seek help from the professionals.
 
 Download the latest APK from [here](https://github.com/Balaji-star/CORX_app/releases/download/v2.0/COR_X.apk) to install the application.
 
