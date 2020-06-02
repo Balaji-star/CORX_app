@@ -11,7 +11,7 @@ Services | Advice  | Meet your doctor | Doctorbot
 ![image](https://github.com/Balaji-star/CORX_app/blob/master/home.jpg)  |  ![image](https://github.com/Balaji-star/CORX_app/blob/master/advice.jpg) |  ![image](https://github.com/Balaji-star/CORX_app/blob/master/Doctor.jpg) |  ![image](https://github.com/Balaji-star/CORX_app/blob/master/chatbot.jpg)
 
 
-The App can be downloaded for FREE from the link provided above. It helps in taking self assessment and provides constant updates and information with no cost. All information are provided by the World Health Organisation (WHO) & the Health Ministry of India. 
+The App can be [download](https://github.com/Balaji-star/CORX_app/releases/download/v2.0/COR_X.apk) for FREE from the link provided above. It helps in taking self assessment and provides constant updates and information with no cost. All information are provided by the World Health Organisation (WHO) & the Health Ministry of India. 
 ## Features
 1. Take self assessment with our DoctorBot
 2. Import advice to the public to keep in mind during this quaratine
