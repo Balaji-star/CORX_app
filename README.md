@@ -1,7 +1,7 @@
 # COR X Mobile App
 COR X helps you keep track of the latest information regarding the ongoing pandemic coronavirus disease “COVID-19”. A small contribution from our side to public, to get aware and seek help from the professionals. We strongly support and play a role in Sustainable Development Goals (SDG) proposed by United Nations. 
 
-Download the latest APK from [here](https://github.com/Balaji-star/CORX_app/releases/download/v2.0/COR_X.apk) to install the application.
+Download the latest APK from # [here](https://github.com/Balaji-star/CORX_app/releases/download/v2.0/COR_X.apk) to install the application.
 
 <td align="center"><a href="https://github.com/Balaji-star/CORX_app/releases/download/v2.0/COR_X.apk"><img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Get it on Github" height="68"></a></td>
 
